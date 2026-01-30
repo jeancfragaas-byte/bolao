@@ -1,0 +1,5 @@
+{
+  "name": "Brasileirão 2026 - Gestor de Palpites",
+  "description": "Um sistema completo para gerenciar palpites do Campeonato Brasileiro 2026 entre amigos, com ranking automático, histórico de rodadas e análise via IA.",
+  "requestFramePermissions": []
+}
